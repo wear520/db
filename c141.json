@@ -2,9 +2,18 @@
     "reason": "success",
     "result": {
         "data": [{
+            "id": "140",
+            "cityName": "北京",
+            "cinemaName": "北京CGV清河店",
+            "address": "北京市海淀区五彩城）",
+            "telephone": "010-8888888",
+            "latitude": "39.922250",
+            "longitude": "116.4388",
+            "trafficRoutes": "乘坐101电，109电，110，112电，420，750层 小米总部楼上"
+        },{
             "id": "141",
             "cityName": "北京",
-            "cinemaName": "北京博纳影城朝阳门旗舰店草泥马",
+            "cinemaName": "北京博纳影城朝阳门旗舰店",
             "address": "北京市朝阳区三丰北里2号楼悠唐生活广场B1层（朝阳门钱柜对面）",
             "telephone": "010-59775660",
             "latitude": "39.92223",
